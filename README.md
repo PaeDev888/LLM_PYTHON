@@ -1,4 +1,4 @@
-# MiniLLM Chatbot
+# MiniLLM Chatbot By Peadev888,ALPNAI
 
 A Thai-English bilingual language model chatbot with GPU support and interactive training capabilities.
 
