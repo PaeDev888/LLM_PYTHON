@@ -73,7 +73,7 @@ def banner(gpu_percent: float):
         gpu_label = c("GPU: ไม่พบ — ใช้ CPU", C.YELLOW)
 
     print(c("╔══════════════════════════════════════════════════╗", C.CYAN, C.BOLD))
-    print(c("║         MiniLLM — ภาษาไทย + อังกฤษ             ║", C.CYAN, C.BOLD))
+    print(c("║         Vi — Onllie🟢                       ║", C.CYAN, C.BOLD))
     print(c("╚══════════════════════════════════════════════════╝", C.CYAN, C.BOLD))
     print(f"  {gpu_label}\n")
 
